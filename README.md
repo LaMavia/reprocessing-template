@@ -1,8 +1,8 @@
 # Reprocessing Template
-
+This is a [reprocessing](https://github.com/Schmavery/reprocessing) template based on the [reprocessing-example-flow-field](https://github.com/ekosz/reprocessing-example-flow-field.git) example.
 ## How to
 ```
-git clone https://github.com/ekosz/reprocessing-example-flow-field.git
+git clone https://github.com/LastShadowPL/reprocessing-template.git 
 ```
 
 ### Install
